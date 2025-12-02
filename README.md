@@ -25,10 +25,7 @@ The app allows adding, editing, deleting, marking tasks as completed, sorting, a
 - Clean, intuitive Swing UI  
 
 ---
+<img width="1387" height="679" alt="Screenshot From 2025-12-02 23-06-57" src="https://github.com/user-attachments/assets/2c2397ba-3a0e-4a21-b91a-8e58057485b9" />
+<img width="1394" height="683" alt="Screenshot From 2025-12-02 23-07-13" src="https://github.com/user-attachments/assets/a076dbaa-7224-4044-8b91-741d3912e558" />
 
-## 📸 Screenshots
-![Main Interface](Screenshot From 2025-12-02 23-06-57.png)
-![Main Interface](Screenshot From 2025-12-02 23-07-13.png)
 
-### Main Interface  
-_(Place your screenshot here)_  
