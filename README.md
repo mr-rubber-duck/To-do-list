@@ -1,2 +1,34 @@
-# To-do-list
-This my owen version of to do list as software build with java
+# To-Do List Manager (Java Swing)
+
+A desktop application built with **Java Swing** for managing daily tasks efficiently.  
+The app allows adding, editing, deleting, marking tasks as completed, sorting, and saving/loading tasks locally.
+
+---
+
+## 📌 Features
+
+- Add new tasks with:
+  - Title  
+  - Description  
+  - Deadline date  
+  - Status (En cours, Terminé, etc.)
+- Edit existing tasks  
+- Delete tasks  
+- Mark tasks as completed  
+- Search tasks  
+- Sort by:
+  - Date  
+  - Status  
+- Save tasks to file  
+- Load tasks from file  
+- Color-coded task rows based on status  
+- Clean, intuitive Swing UI  
+
+---
+
+## 📸 Screenshots
+![Main Interface](Screenshot From 2025-12-02 23-06-57.png)
+![Main Interface](Screenshot From 2025-12-02 23-07-13.png)
+
+### Main Interface  
+_(Place your screenshot here)_  
